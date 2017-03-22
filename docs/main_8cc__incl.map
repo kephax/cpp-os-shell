@@ -1,0 +1,12 @@
+<map id="main.cc" name="main.cc">
+<area shape="rect" id="node5" href="$ansi_8h.html" title="Defines various ansi color&#45;code strings. " alt="" coords="512,80,569,107"/>
+<area shape="rect" id="node7" href="$assert__error_8h.html" title="This file defines the assert_error exception class. " alt="" coords="24,80,126,107"/>
+<area shape="rect" id="node8" href="$unix__error_8h.html" title="Holds the definition of the unix_error exception class thrown when reporting unix errors..." alt="" coords="152,80,242,107"/>
+<area shape="rect" id="node11" href="$Shell_8h.html" title="Definition of class Shell. " alt="" coords="282,80,344,107"/>
+<area shape="rect" id="node6" href="$common_8h.html" title="platform stuff " alt="" coords="530,155,612,181"/>
+<area shape="rect" id="node10" href="$here_8h.html" title="Provides the __HERE__ macro which produces a &quot;file[line] in function&quot; std::string that you can prepen..." alt="" coords="93,304,150,331"/>
+<area shape="rect" id="node12" href="$Sequence_8h.html" title="Definition of class Sequence. " alt="" coords="320,155,410,181"/>
+<area shape="rect" id="node16" href="$Token_8h.html" title="Definition of the Token class. " alt="" coords="226,155,296,181"/>
+<area shape="rect" id="node14" href="$Pipeline_8h.html" title="Definition of class Pipeline. " alt="" coords="367,229,445,256"/>
+<area shape="rect" id="node15" href="$Command_8h.html" title="Definition of class Command. " alt="" coords="289,304,382,331"/>
+</map>
